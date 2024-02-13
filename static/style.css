@@ -1,0 +1,11 @@
+.about {
+  display: inline-block;
+}
+.picture {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.picture > img {
+  width: 700px;
+}
